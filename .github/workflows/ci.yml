@@ -1,0 +1,5 @@
+# GitHub Actions CI/CD workflow.
+# Will contain:
+#   - Jobs: lint (ruff), type-check (mypy), test (pytest)
+#   - PostgreSQL and Redis services for integration tests
+#   - Docker build verification on push/PR

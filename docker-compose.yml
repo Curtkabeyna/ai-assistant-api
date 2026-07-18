@@ -1,0 +1,6 @@
+# Docker Compose configuration for local development.
+# Will define services:
+#   - api: FastAPI application container
+#   - postgres: PostgreSQL 16 database
+#   - redis: Redis 7 cache/broker
+# With volumes, networks, environment variables, and health checks.

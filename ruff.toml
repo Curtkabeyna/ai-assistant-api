@@ -1,0 +1,5 @@
+# Ruff linter and formatter configuration.
+# Will contain:
+#   - target-version = py313
+#   - line-length, select/ignore rules
+#   - isort configuration

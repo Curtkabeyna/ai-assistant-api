@@ -1,0 +1,2 @@
+# Docker ignore file — exclude unnecessary files from build context.
+# Will exclude: .git, .venv, __pycache__, tests, .env, *.md
